@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ticket System","OceanBox on top"];
+const statusMessages = ["<#1275035340524228608>","<#1277205391435890832>"];
 
 
 let currentIndex = 0;
