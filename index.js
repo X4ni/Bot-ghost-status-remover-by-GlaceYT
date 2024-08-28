@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["<#1275035340524228608>","<#1277205391435890832>"];
+const statusMessages = ["/help • cooming soon","cooming soon • /help"];
 
 
 let currentIndex = 0;
